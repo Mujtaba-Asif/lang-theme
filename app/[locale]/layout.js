@@ -26,13 +26,11 @@ const locales = ["en", "fr"];
 export default async function RootLayout({ children, params }) {
   const { locale } = await params;
 
-  // Validate that the incoming `locale` parameter is valid
   if (!locale || !locales.includes(locale)) {
     notFound();
   }
 
-  // Providing all messages to the client
-  // side is the easiest way to get started
+ 
   const messages = await getMessages();
 
   return (

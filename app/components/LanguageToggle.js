@@ -21,7 +21,6 @@ export function LanguageToggle() {
     console.log("New locale:", newLocale);
 
     startTransition(() => {
-      // Remove the current locale from pathname and add the new one
       const pathWithoutLocale = pathname.replace(/^\/[a-z]{2}/, "") || "/";
       const newPath = `/${newLocale}${pathWithoutLocale}`;
 
