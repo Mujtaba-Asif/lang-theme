@@ -1,0 +1,40 @@
+{
+  "HomePage": {
+    "title": "Language & Theme Switcher",
+    "subtitle": "Welcome to our beautiful Next.js application",
+    "description": "Experience the power of internationalization and theming with smooth transitions and modern design.",
+    "features": {
+      "title": "Features",
+      "multilingual": "Multi-language Support",
+      "multilingualDesc": "Switch between English and French seamlessly",
+      "theming": "Dark & Light Theme",
+      "themingDesc": "Beautiful themes with smooth transitions",
+      "responsive": "Responsive Design",
+      "responsiveDesc": "Works perfectly on all devices"
+    },
+    "buttons": {
+      "getStarted": "Get Started",
+      "learnMore": "Learn More",
+      "documentation": "Documentation"
+    },
+    "footer": {
+      "madeWith": "Made with ❤️ using Next.js",
+      "allRights": "All rights reserved"
+    }
+  },
+  "Navigation": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "Theme": {
+    "toggle": "Toggle Theme",
+    "light": "Light",
+    "dark": "Dark"
+  },
+  "Language": {
+    "switch": "Switch Language",
+    "english": "English",
+    "french": "French"
+  }
+}

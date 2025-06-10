@@ -1,0 +1,40 @@
+{
+  "HomePage": {
+    "title": "Commutateur de Langue et Thème",
+    "subtitle": "Bienvenue dans notre belle application Next.js",
+    "description": "Découvrez la puissance de l'internationalisation et des thèmes avec des transitions fluides et un design moderne.",
+    "features": {
+      "title": "Fonctionnalités",
+      "multilingual": "Support Multi-langues",
+      "multilingualDesc": "Basculez entre l'anglais et le français en toute fluidité",
+      "theming": "Thème Sombre et Clair",
+      "themingDesc": "Beaux thèmes avec des transitions fluides",
+      "responsive": "Design Réactif",
+      "responsiveDesc": "Fonctionne parfaitement sur tous les appareils"
+    },
+    "buttons": {
+      "getStarted": "Commencer",
+      "learnMore": "En Savoir Plus",
+      "documentation": "Documentation"
+    },
+    "footer": {
+      "madeWith": "Fait avec ❤️ en utilisant Next.js",
+      "allRights": "Tous droits réservés"
+    }
+  },
+  "Navigation": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "contact": "Contact"
+  },
+  "Theme": {
+    "toggle": "Basculer le Thème",
+    "light": "Clair",
+    "dark": "Sombre"
+  },
+  "Language": {
+    "switch": "Changer de Langue",
+    "english": "Anglais",
+    "french": "Français"
+  }
+}
